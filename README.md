@@ -12,4 +12,8 @@ Análise de dados: A regressão linear é uma das técnicas mais básicas e ampl
 
     Pesquisa: A regressão linear pode ser utilizada em pesquisas para explorar relações entre variáveis e fazer previsões em diversas áreas, como economia, psicologia, educação, entre outras.
 
+
+![Foto Regressão linear](https://github.com/melkycorreia/Linear/blob/b36cfff44d24e09f7756d14fac33de46a132bafc/Gr%C3%A1fico%20de%20Regress%C3%A3o%20Linear.png)
+
+
 Em resumo, as técnicas de regressão linear em Python são úteis em diversas áreas para modelar a relação entre variáveis e fazer previsões.
